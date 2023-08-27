@@ -34,16 +34,13 @@
         <img src="https://skillicons.dev/icons?i=django,mongodb,mysql,nextjs,react,bootstrap&perline=6" />
 </a>
 </p>
----
 
 
 <h3 align="left">Currently Learning:</h3>
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"/>
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" title="NextJS" alt="NextJS"/>
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" title="Django" alt="Django"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" title="ExpressJS" alt="ExpressJS"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>
----
+<p align="left">
+<a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flask,nextjs,django,expressjs,postgresql&perline=6" />
+</a>
 
 
 <h3 align="left">Connect with me:</h3>
