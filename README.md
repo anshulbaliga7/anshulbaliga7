@@ -1,6 +1,6 @@
 # anshul-baliga-ui
-<h1 align="center">Hello! My name is Anshul Baliga, but you can just call me Bali. I’m a third year undergraduate at the Department of Computer Science, PES University, also pursuing a Bachelor of Science Online Data Science Degree at IIT Madras.</h1>
-<h3 align="center">I really like understanding stuff at a very intuitive level, so much so that I could boil any idea down to some very easy to grasp thoughts. I always try my best to implement that in everything I learn, although it is quite difficult sometimes.</h3>
+<h3 align="center">Hello! My name is Anshul Baliga, but you can just call me Bali. I’m a third year undergraduate at the Department of Computer Science, PES University, also pursuing a Bachelor of Data Science Online Data Science Degree at IIT Madras.</h3>
+<h4 align="center">I really like understanding stuff at a very intuitive level, so much so that I could boil any idea down to some very easy to grasp thoughts. I always try my best to implement that in everything I learn, although it is quite difficult sometimes.</h4>
 
 ![visitors](https://komarev.com/ghpvc/?username=anshulbaliga7&color=orange)
 
@@ -25,6 +25,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++(limited)](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+---
 
 <h3 align="left">Frameworks:</h3>
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -33,6 +34,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
+
 
 <h3 align="left">Currently Learning:</h3>
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"/>
