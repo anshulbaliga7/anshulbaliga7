@@ -17,26 +17,23 @@
 
 - 📫 How to reach me **baligaanshul@gmail.com**
 
+---
 
 <h3 align="left">Languages and Tools:</h3>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++(limited)](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="left">
 <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,c,js,r&perline=6" />
+        <img src="https://skillicons.dev/icons?i=python,c,js,r,cpp&perline=6" />
 </a>
+</p>
 
 ---
 
 <h3 align="left">Frameworks:</h3>
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+<a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=django,mongodb,mysql,nextjs,react,bootstrap&perline=6" />
+</a>
+</p>
 ---
 
 
@@ -46,6 +43,7 @@
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" title="Django" alt="Django"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" title="ExpressJS" alt="ExpressJS"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>
+---
 
 
 <h3 align="left">Connect with me:</h3>
