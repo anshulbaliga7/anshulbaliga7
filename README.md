@@ -24,6 +24,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++(limited)](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,c,js,r&perline=6" />
+</a>
 
 ---
 
