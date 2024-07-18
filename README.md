@@ -1,5 +1,5 @@
 <h3 align="center">Hello! My name is Anshul Baliga, but you can just call me Bali. I’m a third year undergraduate at the Department of Computer Science, PES University, also pursuing a Bachelor of Science Online Degree(Data Science) at IIT Madras.</h3>
-<h4 align="center">I really like understanding stuff at a very intuitive level, so much so that I could boil any idea down to some very easy to grasp thoughts. I always try my best to implement that in everything I learn, although it is quite difficult sometimes.</h4>
+<h4 align="center">I really like understanding stuff at a very intuitive level, so much so that I could boil any idea down to some very easy concept to understand it easily. I always try my best to implement that in everything I learn, although it is quite difficult sometimes.</h4>
 
 ![visitors](https://komarev.com/ghpvc/?username=anshulbaliga7&color=orange)
 
